@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">D:\InStore\src\Sample\Solutions\TestExtension\ScaleUnit\obj\project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\JamesFrancis\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.9.3</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.dynamics.commerce.sdk.scaleunit\9.41.22293.6-preview\build\Microsoft.Dynamics.Commerce.Sdk.ScaleUnit.props" Condition="Exists('$(NuGetPackageRoot)microsoft.dynamics.commerce.sdk.scaleunit\9.41.22293.6-preview\build\Microsoft.Dynamics.Commerce.Sdk.ScaleUnit.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_Dynamics_Commerce_Sdk_ScaleUnit Condition=" '$(PkgMicrosoft_Dynamics_Commerce_Sdk_ScaleUnit)' == '' ">C:\Users\JamesFrancis\.nuget\packages\microsoft.dynamics.commerce.sdk.scaleunit\9.41.22293.6-preview</PkgMicrosoft_Dynamics_Commerce_Sdk_ScaleUnit>
+  </PropertyGroup>
+</Project>

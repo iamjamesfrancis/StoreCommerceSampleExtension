@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">D:\InStore\src\Sample\Solutions\TestExtension\StoreCommerce.Installer\obj\project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\JamesFrancis\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.9.3</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(Language)' == 'C#' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Compile Include="$(NuGetPackageRoot)microsoft.dynamics.commerce.sdk.installers.storecommerce\9.41.22293.6-preview\contentFiles\cs\netstandard2.0\Program.cs" Condition="Exists('$(NuGetPackageRoot)microsoft.dynamics.commerce.sdk.installers.storecommerce\9.41.22293.6-preview\contentFiles\cs\netstandard2.0\Program.cs')">
+      <NuGetPackageId>Microsoft.Dynamics.Commerce.Sdk.Installers.StoreCommerce</NuGetPackageId>
+      <NuGetPackageVersion>9.41.22293.6-preview</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Private>False</Private>
+      <Link>Program.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.dynamics.commerce.sdk.installers.storecommerce\9.41.22293.6-preview\build\Microsoft.Dynamics.Commerce.Sdk.Installers.StoreCommerce.props" Condition="Exists('$(NuGetPackageRoot)microsoft.dynamics.commerce.sdk.installers.storecommerce\9.41.22293.6-preview\build\Microsoft.Dynamics.Commerce.Sdk.Installers.StoreCommerce.props')" />
+  </ImportGroup>
+</Project>

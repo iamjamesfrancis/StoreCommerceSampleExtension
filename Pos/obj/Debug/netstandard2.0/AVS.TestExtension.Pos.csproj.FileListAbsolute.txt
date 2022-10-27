@@ -1,0 +1,12 @@
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\bin\Debug\netstandard2.0\AVS.TestExtension.Pos.deps.json
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\bin\Debug\netstandard2.0\AVS.TestExtension.Pos.dll
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\bin\Debug\netstandard2.0\AVS.TestExtension.Pos.pdb
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\bin\Debug\netstandard2.0\AVS.TestExtension.CommerceRuntime.dll
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\bin\Debug\netstandard2.0\AVS.TestExtension.CommerceRuntime.pdb
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\AVS.TestExtension.Pos.csprojAssemblyReference.cache
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\AVS.TestExtension.Pos.csproj.CoreCompileInputs.cache
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\AVS.TestExtension.Pos.AssemblyInfoInputs.cache
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\AVS.TestExtension.Pos.AssemblyInfo.cs
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\AVS.TestExtension.Pos.csproj.CopyComplete
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\AVS.TestExtension.Pos.dll
+D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\AVS.TestExtension.Pos.pdb

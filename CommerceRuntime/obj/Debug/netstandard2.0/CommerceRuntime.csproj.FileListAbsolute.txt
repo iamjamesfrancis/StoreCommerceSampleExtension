@@ -1,0 +1,9 @@
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\obj\Debug\netstandard2.0\CommerceRuntime.csprojAssemblyReference.cache
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\obj\Debug\netstandard2.0\CommerceRuntime.csproj.CoreCompileInputs.cache
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\obj\Debug\netstandard2.0\CommerceRuntime.AssemblyInfoInputs.cache
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\obj\Debug\netstandard2.0\CommerceRuntime.AssemblyInfo.cs
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\bin\Debug\netstandard2.0\CommerceRuntime.deps.json
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\bin\Debug\netstandard2.0\CommerceRuntime.dll
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\bin\Debug\netstandard2.0\CommerceRuntime.pdb
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\obj\Debug\netstandard2.0\CommerceRuntime.dll
+D:\InStore\src\Sample\Solutions\TestExtension\CommerceRuntime\obj\Debug\netstandard2.0\CommerceRuntime.pdb

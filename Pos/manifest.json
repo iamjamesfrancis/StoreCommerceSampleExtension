@@ -1,0 +1,24 @@
+{
+    "$schema": "./devDependencies/schemas/manifestSchema.json",
+    "name": "Pos_Extensibility_Samples",
+    "publisher": "Microsoft",
+    "version": "7.2.0",
+    "minimumPosVersion": "7.2.0.0",
+    "components": {
+        "resources": {
+            "supportedUICultures": [ "en-US" ],
+            "fallbackUICulture": "en-US",
+            "culturesDirectoryPath": "Resources/Strings ",
+            "stringResourcesFileName": "resources.resjson",
+            "cultureInfoOverridesFilePath": "Resources/cultureInfoOverrides.json"
+        },
+        "extend": {
+            "views": {
+                "SearchView": {
+                    "customerAppBarCommands": [ { "modulePath": "ViewExtensions/Search/ViewCustomerSummaryCommand" } ],
+                    "customerListConfiguration": { "modulePath": "ViewExtensions/Search/CustomCustomerSearchColumns" }
+                }
+            }
+        }
+    }
+}
