@@ -1,8 +1,0 @@
-D:\InStore\src\Sample\Solutions\TestExtension\Pos\bin\Debug\netstandard2.0\Pos.deps.json
-D:\InStore\src\Sample\Solutions\TestExtension\Pos\bin\Debug\netstandard2.0\Pos.dll
-D:\InStore\src\Sample\Solutions\TestExtension\Pos\bin\Debug\netstandard2.0\Pos.pdb
-D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\Pos.csproj.CoreCompileInputs.cache
-D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\Pos.AssemblyInfoInputs.cache
-D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\Pos.AssemblyInfo.cs
-D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\Pos.dll
-D:\InStore\src\Sample\Solutions\TestExtension\Pos\obj\Debug\netstandard2.0\Pos.pdb
