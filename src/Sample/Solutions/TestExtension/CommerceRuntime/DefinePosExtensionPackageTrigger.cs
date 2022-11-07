@@ -38,7 +38,7 @@ public class DefinePosExtensionPackageTrigger : IRequestTrigger
         var extensionPackageDefinition = new ExtensionPackageDefinition();
 
         // Should match the PackageName used when packaging the customization package.
-        extensionPackageDefinition.Name = "Alpha Variance Solutions.TestExtension";
+        extensionPackageDefinition.Name = "AVS.TestExtension";
         extensionPackageDefinition.Publisher = "Alpha Variance Solutions";
         extensionPackageDefinition.IsEnabled = true;
 

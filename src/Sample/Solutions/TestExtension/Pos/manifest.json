@@ -56,38 +56,6 @@
           "modulePath": "Triggers/ApplicationStartTrigger"
         }
       ]
-    },
-    "create": {
-      "templatedDialogs": [
-        {
-          "htmlPath": "Controls/Dialogs/Create/ExampleCreateDialog.html",
-          "modulePath": "Controls/Dialogs/Create/ExampleCreateDialogModule"
-        },
-        {
-          "htmlPath": "Controls/Dialogs/Edit/ExampleEditDialog.html",
-          "modulePath": "Controls/Dialogs/Edit/ExampleEditDialogModule"
-        },
-        {
-          "htmlPath": "Controls/Dialogs/Display/PingResultDialog.html",
-          "modulePath": "Controls/Dialogs/Display/PingResultDialogModule"
-        }
-      ],
-      "views": [
-        {
-          "title": "Knockout Samples View",
-          "pageName": "KnockoutSamplesView",
-          "phonePageName": "KnockoutSamplesView",
-          "viewDirectory": "Views/",
-          "viewControllerPath": "Views/KnockoutSamplesView"
-        },
-        {
-          "title": "Example View",
-          "pageName": "ExampleView",
-          "phonePageName": "ExampleView",
-          "viewDirectory": "Views/",
-          "viewControllerPath": "Views/ExampleView"
-        }
-      ]
     }
   }
 }
